@@ -1,0 +1,5 @@
+I created a website using HTML, Bootstrap, CSS, and Javascript. I organized the code for the website into three files. One of the files is called pages. This is the file where I put the HTML files for the 
+home, contact, and about pages of the website. Another file is called style. This is where I put the CSS which I used to improve the responsiveness of the webpages. I also made a file called scripts, where 
+I put the Javascript functions that could be used for the website, although at this point they are not actually functional in the website. I used bootstrap components such as cards, carousels, and popovers to 
+create this website. I used cards to make the home and contact pages look more clean and professional. I used a carousel to show a slideshow of pictures in the about page. I used popovers in the contact and 
+home pages to show users what would happen if they click certain buttons. I also added comments to the code to show other developers what each part of the code is doing on the actual website.
